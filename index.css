@@ -1,0 +1,10 @@
+div {
+    background-color: #163a52 ;
+    border-radius: 5px;
+    padding: 2px;
+}
+p{
+    color: white;
+    font-weight: bold;
+    margin: 5px;
+}
